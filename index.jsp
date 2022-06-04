@@ -10,6 +10,7 @@
 <h1>Hello Jenkins User</h1>
 <h2>This is My First Jenkins Project</h2>
 <h3>Please wait for latest updates....<span>Stay Tuned..</span></h3>
+    <p>Adding some text and pull the changes automaticcaly</p>
 
 
 </body>
